@@ -1,1 +1,1 @@
-A giter8 template for web applications with xsbt-web-plugin 
+A giter8 template on spray service  for  github:spray/spray
